@@ -8,3 +8,4 @@ E Sempre Que eu tiver uma ideia e aprender algo novo, vou adicionar em meu proje
 Assim Irei colocando funcionalidades novas aos poucos.
 
 ## Imagens do Layout Que Estou Utilizando:
+<img align="left" src="https://github.com/ninjanoobplay/MyFlaskProject/blob/main/imgs/Layout.png" width="500"/>
